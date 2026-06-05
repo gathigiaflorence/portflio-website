@@ -12,4 +12,4 @@ My personal developer portfolio built using HTML, CSS, and JavaScript. It showca
 ## Tech Stack
 HTML • CSS • JavaScript • Java (Android)
 
-## The live URL is https://gathigiaflorence.github.io/portflio-website/
+The live URL is https://gathigiaflorence.github.io/portflio-website/
